@@ -1,0 +1,33 @@
+body {
+  background: #f5f6f7;
+  color: #1b1b32;
+  font-family: Helvetica;
+  margin: 0;
+}
+
+main {
+  text-align: center;
+  padding: 10px;
+  border-bottom: 4px solid #fdb347;
+}
+
+#image {
+  width: 80%;
+  background-color: #0a0a23;
+  display: block;
+  align-items: center;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.centered {
+  text-align: center;
+}
